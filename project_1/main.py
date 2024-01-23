@@ -4,6 +4,10 @@ import random
 import os
 from datetime import datetime
 
+# Poprawność zadań: 10/11
+# Dodatki: 0.5/2
+# Znormalizowane: 0,8076923077
+
 #Zadanie_1
 def ex_1():
     for liczba in range(1, 101):
